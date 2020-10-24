@@ -1,8 +1,7 @@
 ## Ferramentas de segurança para RPG
 
-Material baseado no guia (TTRPG Safety Toolkit)[https://drive.google.com/drive/folders/114jRmhzBpdqkAlhmveis0nmW73qkAZCj],
-de Kienna Sunrise, traduzido com permissão. O conteúdo sobre CATS foi submetido ao desafio 200 Word RPG em 2016 por (Patrick O'Leary)[www.proleary.com],
-e está disponível sob licença CC BY 4.0. 
+Material baseado no guia [TTRPG Safety Toolkit](https://drive.google.com/drive/folders/114jRmhzBpdqkAlhmveis0nmW73qkAZCj),
+de [Kienna Sunrise](https://linktr.ee/kiennas), traduzido com permissão. O conteúdo sobre [CATS](https://200wordrpg.github.io/2016/supplement/2016/04/12/CATS.html) foi submetido ao desafio 200 Word RPG em 2016 por [Patrick O'Leary](www.proleary.com), e está disponível sob licença CC BY 4.0. 
 
 As seguintes ferramentas servem para omitir ou evitar conteúdos desconfortáveis para qualquer um dos participantes. Note
 que ao usar qualquer uma dessas ferramentas, não é necessário explicar a ninguém porque você quer evitar aquele conteúdo.
